@@ -1,2 +1,2 @@
 # hello-world
-Figuring out github
+Figuring out github. Really just figuring out :-)
